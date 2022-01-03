@@ -1,0 +1,1 @@
+This repository contains my solutions to programming challenges from various platforms like Project Euler and LeetCode. The intention of this repo is purely for personal coding practice, however, anyone is welcome to explore around.
